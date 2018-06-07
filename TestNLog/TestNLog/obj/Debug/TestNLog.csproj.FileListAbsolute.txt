@@ -1,0 +1,10 @@
+c:\users\yang\documents\visual studio 2015\Projects\TestNLog\TestNLog\bin\Debug\TestNLog.exe.config
+E:\GS2018\E\Yang\Program\Git\GitYang\TestNLog\TestNLog\TestNLog\bin\Debug\TestNLog.exe.config
+E:\GS2018\E\Yang\Program\Git\GitYang\TestNLog\TestNLog\TestNLog\bin\Debug\TestNLog.exe
+E:\GS2018\E\Yang\Program\Git\GitYang\TestNLog\TestNLog\TestNLog\bin\Debug\TestNLog.pdb
+E:\GS2018\E\Yang\Program\Git\GitYang\TestNLog\TestNLog\TestNLog\bin\Debug\NLog.dll
+E:\GS2018\E\Yang\Program\Git\GitYang\TestNLog\TestNLog\TestNLog\bin\Debug\NLog.xml
+E:\GS2018\E\Yang\Program\Git\GitYang\TestNLog\TestNLog\TestNLog\obj\Debug\TestNLog.csprojResolveAssemblyReference.cache
+E:\GS2018\E\Yang\Program\Git\GitYang\TestNLog\TestNLog\TestNLog\obj\Debug\TestNLog.exe
+E:\GS2018\E\Yang\Program\Git\GitYang\TestNLog\TestNLog\TestNLog\obj\Debug\TestNLog.pdb
+E:\GS2018\E\Yang\Program\Git\GitYang\TestNLog\TestNLog\TestNLog\bin\Debug\NLog.config
